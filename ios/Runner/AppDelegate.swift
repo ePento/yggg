@@ -36,7 +36,7 @@ import google_mobile_ads
 
         GeneratedPluginRegistrant.register(with: self)
         // TODO: Add your API key
-        GMSServices.provideAPIKey("AIzaSyBqQMpR73ry257vNlpgNJ73qcKCpuOk")
+        GMSServices.provideAPIKey("AIzaSyDXaO6eYjG9JeY0JfeOnMP1si5F_7L4R_E")
 
         //Mobile Ads - uncomment if ads required.
         let listTileFactory = ListTileNativeAdViewFactory()
