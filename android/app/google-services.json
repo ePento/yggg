@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639418981597",
+    "project_id": "future-yg",
+    "storage_bucket": "future-yg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639418981597:android:e587ce455c185993da4f34",
+        "android_client_info": {
+          "package_name": "com.futureyg.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639418981597-01d81jlhphiohu30pmdpqjqa8j1cnd31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYXpLneHHkPuRMLldur_Cgh9Iv4-QSTPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639418981597-01d81jlhphiohu30pmdpqjqa8j1cnd31.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "639418981597-sg961nq6c70vin706ku6uj618om4erc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.futureyg.app",
+                "app_store_id": "6462687782"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

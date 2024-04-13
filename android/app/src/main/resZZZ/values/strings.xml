@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundColor">#000000</color>
+    <string name="facebook_app_id">3333333333</string>
+    <string name="facebook_client_token">33333333</string>
+    <string name="google_maps_api_key">AIzaSyDhekgXIakN4fgiQ5cLECo4Za7GFglrhUw</string>
+    <string name="google_ads_app_id">333333333</string>
+    <string name="scheme">https</string>
+    <string name="host">future-yg.com</string>
+    <string name="path_prefix">/en</string>
+</resources>
